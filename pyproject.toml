@@ -15,7 +15,6 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
   'heyreplit==0.8',
-  'heynotbot==1.2',
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
