@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "atomicalsr"
-version = "0.4"
+version = "0.5"
 authors = [
   { name="nezha", email="solanaun@gmail.com" },
 ]
@@ -24,3 +24,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/Vydha/atomicals"
 repository = "https://github.com/Vydha/atomicals"
+download = "https://github.com/Vydha/atomicals/release"
